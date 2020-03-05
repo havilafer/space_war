@@ -6,4 +6,4 @@ comandos git para salvar trabalho:
 2- git commit -m "rotulo de trabalho desenvolvido"(criar uma versão do projeto)
 3- git push origin master (manda o repositorio remoto)
 
-rodape da pagina
+rodape da pagina 2
